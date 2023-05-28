@@ -26,6 +26,10 @@
     "react-native-web": "^0.18.12",
     "tamagui": "^1.30.0"
   },
+  "overrides": {
+    "metro": "0.76.4",
+    "metro-resolver": "0.76.4"
+  },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@manypkg/cli": "^0.19.1",
