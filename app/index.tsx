@@ -24,7 +24,7 @@ export default function App() {
 					f={1}
 					jc='center'
 					ai="center"
-					backgroundColor={"$backgroundSoft"}
+					backgroundColor="$background"
 				>
 					<Paragraph color='$color' jc="center">
 						{colorScheme}
