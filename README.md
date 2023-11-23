@@ -12,6 +12,7 @@ npm i
 
 ## Usage
 
+- `npm start` to start for all platforms
 - `npm run web` for web 
 - `npm run android` for android
 - `npm run ios` for ios
